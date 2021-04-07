@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="pontoBanner" title="#pontoBanner" src="./imagens/sensesHeadreSway.png" />
+    <img alt="pontoBanner" title="#pontoBanner" src="./imagens/pontoHeaderSway.png" />
 </h1>
 
 <h4 align="center"> 
@@ -46,7 +46,7 @@ Abaixo descrevo um pouco mais de como o App funciona e como o desenvolvi!
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   
-  <img alt="Tela01" title="#Tela01" src="./imagens/Tela01.png" width="300px">
+  <img alt="Tela01" title="#Tela01" src="./imagens/Tela01.PNG" width="300px">
 
 </p>
 
@@ -54,7 +54,7 @@ Abaixo descrevo um pouco mais de como o App funciona e como o desenvolvi!
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   
-  <img alt="Tela02" title="#Tela02" src="./imagens/Tela02.png" width="300px">
+  <img alt="Tela02" title="#Tela02" src="./imagens/Tela02.PNG" width="300px">
 
 </p>
 
@@ -62,7 +62,7 @@ Abaixo descrevo um pouco mais de como o App funciona e como o desenvolvi!
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   
-  <img alt="Tela03" title="#Tela03" src="./imagens/Tela03.png" width="300px">
+  <img alt="Tela03" title="#Tela03" src="./imagens/Tela03.PNG" width="300px">
 
 </p>
 
@@ -70,7 +70,7 @@ Abaixo descrevo um pouco mais de como o App funciona e como o desenvolvi!
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   
-  <img alt="Tela04" title="#Tela04" src="./imagens/Tela04.png" width="300px">
+  <img alt="Tela04" title="#Tela04" src="./imagens/Tela04.PNG" width="300px">
 
 </p>
 
